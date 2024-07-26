@@ -7,3 +7,27 @@ I carried out a project with the aim of identifying the main characteristics ass
  
 
 [Github](https://github.com/ViniciusPina).
+
+# Versions!
+-------------------- | ----------
+      Library        |  Version  
+-------------------- | ----------
+Matplotlib           |      3.9.1
+NumPy                |     1.24.4
+Pandas               |      2.2.2
+Scikit-Learn         |      1.5.1
+Seaborn              |     0.13.2
+
+Python Version: 3.9.19
+
+# linkedin
+
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/vinicius-monteiro-pina" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+# Dataset
+- available:
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
